@@ -1,0 +1,23 @@
+body{
+  background-color: #f3f3f3
+}
+h1{
+  font-size: 90px;
+}
+.table1 {
+
+font-size: 50px;
+border-spacing: 35px;
+}
+
+td{
+  border-style: none;
+  padding: 20px;
+}
+
+hr{
+  width: 10%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 20px;
+}
